@@ -1,2 +1,2 @@
 # counter
-basic counter with increment , decrement and reset button using react
+basic counter with increment , decrement and reset button using reactjs
